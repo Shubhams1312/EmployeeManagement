@@ -201,7 +201,7 @@
   <div class="page-header-inner ">
 
     <div class="page-logo">
-      <img src="../images/kanalytics.png" alt="logo" class="logo_default" width="117" height="30" style="margin: 10px 0 0;" />
+      <img src="../images/logo.png" alt="logo" class="logo_default" width="117" height="30" style="margin: 10px 0 0;" />
     </div>
     <!-- BEGIN MEGA MENU -->
     <div class="hor-menu   hidden-sm hidden-xs">
@@ -215,7 +215,7 @@
             <div class="sidebar" id='sidebar'>
               <div class="side_bar-logo">
                 <a href="home_page.php">
-                  <img src="../images/kanalytics.png" alt="logo" class="logo-default" width="117" height="30" style="margin: 10px 0 0;" /> </a>
+                  <img src="../images/logo.png" alt="logo" class="logo-default" width="117" height="30" style="margin: 10px 0 0;" /> </a>
               </div>
 
               <div class="menu">
