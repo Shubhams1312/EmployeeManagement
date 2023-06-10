@@ -28,11 +28,11 @@ Add Family Details
 
 <img width="945" alt="logout" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/c6e867b7-3e29-489f-95bc-c8c9409fbb99">
 
-
+Logout in popup
 
 <img width="941" alt="profile" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/b9e0106d-e03b-4226-b526-e5fa3a091b0f">
 
-
+Profile upload and preview section
 
 <img width="938" alt="bank" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/0b39a296-84c2-4e98-9b93-8be2b4d04bc5">
  
