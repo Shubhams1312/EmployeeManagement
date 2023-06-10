@@ -42,3 +42,14 @@ silde bar that you can add new data for master table
 <img width="938" alt="bank" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/0b39a296-84c2-4e98-9b93-8be2b4d04bc5">
  
 Master data for bank and in file have few more master table
+
+
+
+
+
+
+
+
+
+
+Contact - shubhamsukla74@gmail.com
