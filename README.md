@@ -17,12 +17,15 @@ Add new record
 
 Upload documents
 
-<img width="945" alt="pre" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/578ec2a9-5db0-41c7-8e37-7c4b8c8f9a24"><img width="870" alt="fam" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/91625a2d-56d4-4037-a1cc-7cd0b8799cc1">
+<img width="945" alt="pre" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/578ec2a9-5db0-41c7-8e37-7c4b8c8f9a24">
 
 Add last orgnization's details
 
-<img width="941" alt="profile" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/9d5940a3-3b45-4f07-8a4d-f9d<img width="945" alt="logout" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/8e703741-adf0-4649-951b-d5bf8534c8d6">
-45cbd0cd1">
+<img width="870" alt="fam" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/91625a2d-56d4-4037-a1cc-7cd0b8799cc1">
+
+
+
+
 
  
 
