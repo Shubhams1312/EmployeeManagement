@@ -1,5 +1,21 @@
 # EmployeeManagement
 
+The Employee Management System is a web-based application developed using PHP, MySQL, HTML, CSS, Bootstrap, jQuery, and AJAX. This system provides a comprehensive solution for managing employee-related information, including personal details, previous details, nominee details, and document uploads. It also includes features for file upload, document management, and user profile management. The system is designed to enhance efficiency and streamline employee management processes within an organization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img width="960" alt="login" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/bcc7296a-0201-47c7-bf1d-7df4fa67c018">
 
