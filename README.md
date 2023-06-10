@@ -22,6 +22,7 @@ Upload documents
 Add last orgnization's details
 
 <img width="870" alt="fam" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/91625a2d-56d4-4037-a1cc-7cd0b8799cc1">
+Add Family Details
 
 <img width="938" alt="bank" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/0b39a296-84c2-4e98-9b93-8be2b4d04bc5">
  
