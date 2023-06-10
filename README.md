@@ -22,7 +22,18 @@ Upload documents
 Add last orgnization's details
 
 <img width="870" alt="fam" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/91625a2d-56d4-4037-a1cc-7cd0b8799cc1">
+
 Add Family Details
+
+
+<img width="945" alt="logout" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/c6e867b7-3e29-489f-95bc-c8c9409fbb99">
+
+
+
+<img width="941" alt="profile" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/b9e0106d-e03b-4226-b526-e5fa3a091b0f">
+
+
 
 <img width="938" alt="bank" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/0b39a296-84c2-4e98-9b93-8be2b4d04bc5">
  
+Master data for bank and in file have few more master table
