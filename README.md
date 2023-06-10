@@ -26,8 +26,5 @@ Add last orgnization's details
 
 
 
-
- 
-
-<img width="946" alt="side" <img width="938" alt="bank" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/0b39a296-84c2-4e98-9b93-8be2b4d04bc5">
+     <img width="938" alt="bank" src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/0b39a296-84c2-4e98-9b93-8be2b4d04bc5">
 src="https://github.com/Shubhams1312/EmployeeManagement/assets/134539066/e1889bb4-20f6-4fd6-ba01-d0e0a96a6fc0">
